@@ -1,4 +1,4 @@
-# WISTEM
+# WISTEMB
 A multipage Website for Women in STEM Conference
 
 ## A simple, responsive multi-page website build using HTML, CSS and Bootstrap
